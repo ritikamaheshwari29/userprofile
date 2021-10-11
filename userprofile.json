@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "alias": "ritika",
+      "userId": "s490024",
+      "firstName": "Ritika",
+      "lastName": "Maheshwari",
+      "organizationName": "HDFC Bank Limited",
+      "institutionId": 143502,
+      "email": "ritika.maheshwari@mastercard.com",
+      "userAccess": {
+        "filex": {
+          "functions": [
+            "filex_admin",
+            "exchanger",
+            "auditor",
+            "registrar"
+          ]
+        }
+      },
+      "id": 1
+    },
+    {
+      "alias": "HDFC User 2",
+      "userId": "s490024",
+      "firstName": "John",
+      "lastName": "Doe",
+      "organizationName": "HDFC Bank Limited",
+      "institutionId": 143502,
+      "email": "john.doe@mastercard.com",
+      "userAccess": {
+        "filex": {
+          "functions": [
+            "filex_admin",
+            "exchanger",
+            "auditor",
+            "registrar"
+          ]
+        }
+      },
+      "id": 2
+    },
+    {
+      "alias": "Jane Doe",
+      "userId": "j0123456",
+      "firstName": "Jane",
+      "lastName": "Doe",
+      "organizationName": "HDFC Bank Limited",
+      "institutionId": 143502,
+      "email": "jane.doe@mastercard.com",
+      "userAccess": {
+        "filex": {
+          "functions": [
+            "filex_admin",
+            "exchanger",
+            "auditor",
+            "registrar"
+          ]
+        }
+      },
+      "id": 5
+    },
+    {
+      "alias": "Adam Poe",
+      "userId": "a0123456",
+      "firstName": "Adam",
+      "lastName": "Poe",
+      "organizationName": "HDFC Bank Limited",
+      "institutionId": 143502,
+      "email": "adam.poe@mastercard.com",
+      "userAccess": {
+        "filex": {
+          "functions": [
+            "filex_admin",
+            "exchanger",
+            "auditor",
+            "registrar"
+          ]
+        }
+      },
+      "id": 6
+    }
+  ]
+}
